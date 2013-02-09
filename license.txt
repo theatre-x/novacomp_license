@@ -1,0 +1,170 @@
+The Nova Componere Public Works License
+
+Version 2.0
+
+February 3rd, 2013 
+Copyright © 2013 Project Nova Componere
+
+This document is fropenly distributable. But changing it is not allowed. 
+
+
+
+Definitions
+
+a. “Fropen”, the combination of “Free” and “Open”, means freedom, liberty and openness to all. When you see “fropen”, this is what we speak of.
+
+b. “Freedom” means liberty. When you see “freedom”, we speak of liberty of an individual and/or collective.
+
+c. “Work(s)”, “Creative Work(s)” we mean, but not limiting to: video, music, paintings, drawings, photographs, and poetry and anything of which it's intention(s) is/are meant for self and/or group expression of emotion, opinion, ideas, and soul.
+
+d. “Gratis” means free of charge. With this we speak of price as in free of charge.
+
+e. “Protocol” means as a way of distributing and sharing art, physically or virtually.
+
+f. “Us” means humans as a whole unless specified.
+
+g. “Our” means humans as a whole unless specified.
+
+h. “Artist”, “Artists” we mean those who identify themselves as such and make and design art.
+
+i. “Creator”, “Creators” we mean this as a more general title for those who create and design art.
+
+
+Preamble:
+
+The Nova Componere Public Works License is a copyleft license for creative works that works to obtain peace using four concepts:
+
+Freedom
+Justice
+Equality
+Kindness
+
+
+  The design and operation of the current creative works world prevents people from experiencing and creating works in an unbiased and safe place. Many flaws plague this world and hold us back, not only as creators, but as civilized human beings. Art is one of the most important aspects of our species for it reflects the human conditions, beauty, opinion, and conditions and situations going on in the world around us.
+	Often, the sharing of works of art such as (But not limited to) music, movies, and written works through specific protocols (e.g. Bit-torrent and peer to peer) gets people condemned as “Thieves” or “Pirates”. By condemning people as such damages the concept of good will in the eyes of many through the use of these propaganda terms. This holds us back from achieving a better civilization for it corrupts trust and creates fear which makes the world operate on negativity rather than positivity.
+	A heavy bias dictates what is shown and created on a global scale. This forces us artists and creators to either express ourselves truthfully or lie and hinder our self-expression to things that “Work” in the mainstream, corporate art world. Choosing the latter, leads us down a road of biased, funneled creativity with heavily mainstreamed creations of redundancy, predictability, and lies. Choosing the former, we follow a path that leads to emotional security and openness.
+	The Nova Componere project works to make the Nova Componere PAL compatible as possible with the following seven freedoms of Fropen Art:
+
+
+0. The freedom to share art
+1. The freedom to modify your own copy of someone else's art
+2. The freedom to redistribute your modified version of an art, gratis or for a fee
+3. The freedom to distribute an unmodified work of an art, gratis or for a fee
+4. The freedom to blend arts
+5. The freedom to study, document, and learn from art
+6. The freedom to perform and publicly show art, for gratis or for a fee
+
+
+	“Fropen” (Free + Open) is an idea that combines Free, as in freedom, and Open as in open to all. The name is meant to bring both Free Artists and Open Artists as one and no longer separate.
+	The Nova Componere project also works to maintain kindness with the Nova Componere Public Art License by allowing those who license their art under this license to have the option to redistribute art with or without a fee and give that same act of kindness to the next person. Justice is supported by disallowing powerful entities like corporations from running down artists and drawing the spirit from them for their own gains. Finally, equality is supported for the Nova Componere Public Art License allows anyone, no matter what their beliefs or physical appearance, to use the license and it's terms and conditions.
+	Though it seems contradicting to allow individuals and collectives to exercise the rights given within this text and not corporate entities, we must reminds ourselves that a corporation is NOT a human being.
+	The design of the Nova Componere Public Art License is meant to prevent others from denying you these freedoms. As mentioned above, the Nova Componere Public Art License is copyleft. This means that when a derivative of a work of art under the Nova Componere PAL or when an art under the Nova Componere PAL is shared and/or modified, the rights stated in this document MUST be passed along to the recipients without any form of modification to these rights what so ever. 
+
+
+
+GENERAL TERMS AND CONDITIONS
+
+
+0. Human Rights
+
+I –  The rights and freedoms stated within this license apply to everyone, regardless of race, creed, gender identification, sexual orientation, region, or culture. You may use this license for your art but, as stated above, changing this document is not allowed. See section IX for more details on usage.
+
+I. Format Restriction.
+
+I - All art under the Nova Componere PAL is allowed to be redistributed in any digital and/or physical format.
+
+Digital format examples:
+
+Audio formats: OGG, FLAC, etc
+Video formats: OGV, MKV, WebM, etc
+Document format: PDF, ODF, ODT, TXT, etc
+Image format: PNG, SVG, etc 
+
+Physical format examples:
+
+Audio: Compact Disc, Cassette Tape
+Video: DVD, VHS, Beta-Tape, Laser Disc
+Document: Book, Letter
+Image: Portrait, Post-Card
+
+II - All art that is in a digital format under the Nova Componere PAL must be free of any Digital Restrictions Management (DRM).
+
+III - All art is allowed to be shared through ANY protocol. Such as, but not limited to, peer-to-peer (P2P), physical disc, and bit-torrent.
+
+Note:
+The project strongly recommends, but does not dictate, that artists who choose to use digital formats should use formats such as (but not limited to) OGG, OGV, PDF, PNG, and FLAC for the sake of others and their own freedom.
+
+II. Documentation
+
+I - It is optional that any art released under the Nova Componere PAL comes with, or be made available, in any form, documentation that shows how to (Including but not limited to) perform, write, and/or illustrate an art. When we say “Optional” we mean that the creator of a work of art does not have to take responsibility for releasing documentation on their art. This is optional for it is possible to learn by studying an art.
+
+II - Everyone is allowed to create how-tos and/or documentation for any art under the Nova Componere PAL.
+
+III. Copyleft
+
+I - Users of the Nova Componere PAL must pass along the rights stated in this document to the recipient. When a derivative of a work of art under the Nova Componere PAL is created, it must, as a whole, be licensed under the Nova Componere PAL. 
+
+Note:
+This is to prevent a third party from using the art and gaining full copyrights.
+
+IV. Accreditation
+
+I – When a derivative of an art has been created, credit must be given to the creator(s) of the derivative's origin as well as to those who have modified the copy given unto you.
+
+V. No Contamination
+
+I – If you bundle art under this license with art not under this license, the creator of that art under this license may not deny you the right to redistribution.
+
+II – The original creator of an art may not deny you the right to redistribute their art for a fee, if purchased legally, if it is under the Nova Componere PAL. This applies to a derivative works of art and unmodified works of art.
+
+VI. Commercialization and Monetization
+
+I - Everyone is permitted to manufacture, distribute, share, and/or modify merchandise (Such as, but not limited to: clothing, physical discs, and artwork) of any project under the Nova Componere PAL.
+
+II - Commercial redistribution of art, be it that the art is modified or not from the original work, under the Nova Componere PAL is optional to an individual and/or collective. Anyone is permitted to commercially redistribute art, be they the creator or not, under the Nova Componere PAL.
+
+III – Works under this license may only be redistributed for monetary compensation through decentralized currencies (e.g. Bitcoin).
+
+VIII. Content Censorship
+
+I – Any work(s) under the Nova Componere PAL may not be censored due to content by any entity without the expressed, written consent by the artist(s) involved with the work(s).
+
+IX. License Usage
+
+I – The Nova Componere Public Art License is a symbol of justice, freedom, kindness and equality, thus making it a symbol for peace. No military entity may use this license for their own artwork (Such as but not limited to logos for war machines) or art under this license, for any reason.
+
+X. Termination
+
+I – You may not reproduce or modify a covered work except as expressly provided under this License. Any attempt otherwise to reproduce or modify it is void, and will automatically terminate your rights under this License.
+
+
+How to use the Project Nova Componere Public Works License in your material: 
+
+Copyright © (Insert Year Here) (Your name) 
+You may redistribute this work and/or modify it under the terms of the Nova Componere PWL as published by the Nova Componere Project, either version 2.0 of the License, or 
+(at your option) any later version. 
+
+This work is distributed in the hope that it will be enjoyed and/or useful. See the Nova Componere PWL for other details. 
+You should have received a copy of the Nova Componere PWL 
+along with this art. If not, see http://www.novacomponere.x10.mx/pnc_license.php
+
+Short version:
+
+Copyright © (Year) (Your name) This work is licensed under the Nova Componere Public Works License.
+
+
+END OF LICENSE
+
+CHANGES MADE TO VERSION 2.0:
+
+Changed “Free” to “Fropen”
+Changed name of license to “Public Art License” for accuracy
+Merged last two paragraphs in Preamble
+Changed the preface from “Preface” to “Preamble” to “Manifesto”
+Created section VIII – Content censoring
+Moved Termination to section IX
+Modified section VI to only allow decentralized currency
+Renamed section I to “Format Restriction”
+Modified freedom I under Section I; “shared” > “redistribute”
+Removed freedom 7 in manifesto due to redundancy
+Changed from “Art” to “Works”
