@@ -7,7 +7,7 @@ Version 2.0
 April 2nd, 2013 
 Copyright © 2013 Project Nova Componere
 
-This document is fropenly distributable. But changing it is not allowed. 
+This document is fropenly distributable. But changing it is prohibited. 
 
 
 ------------
@@ -22,22 +22,22 @@ c. “Work(s)”, “Creative Work(s)” we mean, but not limiting to: video, mu
 
 d. “Gratis” means free of charge. With this we speak of price as in free of charge.
 
-e. “Protocol” means as a way of distributing and sharing art, physically or virtually.
+e. “Protocol” means as a way of distributing and sharing creative works, physically or virtually.
 
 f. “Us” means humans as a whole unless specified.
 
 g. “Our” means humans as a whole unless specified.
 
-h. “Artist”, “Artists” we mean those who identify themselves as such and make and design art.
+h. “Artist”, “Artists” we mean those who identify themselves as such and make and design creative works.
 
-i. “Creator”, “Creators” we mean this as a more general title for those who create and design art.
+i. “Creator”, “Creators” we mean this as a more general title for those who create and design creative works.
 
 
 ----------
 Preamble:
 ----------
 
-The Nova Componere Public Works License is a copyleft license for creative works that works to obtain peace using four concepts:
+The Nova Componere Public Works License is a copy-left license for Creative Works that is designed to attempt to obtain peace using four concepts:
 
 
 Freedom
@@ -46,17 +46,19 @@ Equality
 Kindness
 
 
-The design and operation of the current creative works world prevents people from experiencing and creating works in an unbiased and safe place.
-Many flaws plague this world and hold us back, not only as creators, but as civilized human beings.
-Copying is NOT theft for it does not imply ownership of the original.
-Art is one of the most important aspects of our species for it reflects the human conditions, beauty, opinion, and conditions and situations going on in the world around us.
-Often, the sharing of works of art such as (But not limited to) music, movies, and written works through specific protocols (e.g. Bit-torrent and peer to peer) gets people condemned as “Thieves” or “Pirates”.
+The design and operation of the current world prevents people from experiencing and creating works in an unbiased and safe place.
+Many problems plague this world and hold us back, not only as creators, but as civilized human beings.
+Copying is NOT theft for it is not seizure of ownership of the original work(s).
+Artistry is one of the most important aspects of our species for it reflects the human conditions, beauty, opinion, and conditions and situations occurring, or that have occurred, in the world around us.
+Often, the sharing of Creative Works such as (But not limited to) music, movies, and written works through specific protocols (e.g. Bit-torrent and peer to peer, even lending to friends) gets people condemned as “Thieves” or “Pirates”.
 By condemning people as such damages the concept of good will in the eyes of many through the use of these propaganda terms.
-This holds us back from achieving a better civilization for it corrupts trust and creates fear which makes the world operate on negativity rather than positivity.
+These propaganda terms try to make the prosecutors seem to be in the right to the public which they are not.
 A heavy bias dictates what is shown and created on a global scale.
-This forces us creators to either express ourselves truthfully or lie and hinder our self-expression to things that “Work” in the mainstream, corporate art world.
+This forces us creators to either express ourselves truthfully or lie and hinder their self-expression to things that “Work” in the mainstream, corporate world.
 Choosing the latter, leads us down a road of biased, funneled creativity with heavily mainstreamed creations of redundancy, predictability, and lies.
 Choosing the former, we follow a path that leads to emotional security and openness.
+All of this holds us back from achieving a better civilization for it corrupts trust and creates fear which makes the world operate on negativity rather than positivity which is needed more than ever.
+
 The Nova Componere project works to make the Nova Componere PWL compatible as possible with the following seven freedoms of Fropen Works:
 
 
@@ -70,34 +72,35 @@ The Nova Componere project works to make the Nova Componere PWL compatible as po
 
 
 “Fropen” (Free + Open) is an idea that combines Free, as in freedom, and Open as in open to all.
-The name is meant to bring both Free Creators and Open Creators as one and no longer separate.
-The Nova Componere project also works to maintain kindness with the Nova Componere Public Works License by allowing those who license their work(s) under this license to have the option to redistribute works with or without a fee and give that same act of kindness to the next person.
-Justice is supported by disallowing powerful entities like corporations from running down creators and drawing the spirit from them for their own gains.
-Finally, equality is supported for the Nova Componere Public Works License allows anyone, no matter what their beliefs or physical appearance, to use the license and it's terms and conditions.
+The name is meant to bring both “Free” Creators and “Open” Creators as one and no longer separate.
+The Nova Componere Project also works to maintain kindness with the Nova Componere Public Works License by allowing those who license their work(s) under this license to have the option to redistribute works with or without a fee and give that same act of kindness to the next person.
+Justice is supported by disallowing powerful entities like corporations from running down creators and drawing the spirit from them for their own profit gains.
+Finally, equality is supported because the Nova Componere Public Works License allows anyone, no matter what their configurations, to use the license and it's terms and conditions.
 Though it seems contradicting to allow individuals and collectives to exercise the rights given within this text and not corporate entities, we must remind ourselves that a corporation is NOT a human being.
-The design of the Nova Componere Public Works License is meant to prevent others from denying you these freedoms.
+The design of the Nova Componere Public Works License is meant to prevent others from denying you these freedoms and core concepts of peace.
 
-As mentioned above, the Nova Componere Public Works License is copyleft.
-This means that when a derivative of a work under the Nova Componere PWL or when a work under the Nova Componere PWL is shared and/or modified, the rights stated in this document MUST be passed along to the recipients without any form of modification to these rights what so ever. 
+As mentioned above, the Nova Componere Public Works License is copy-left.
+This means that when a derivative of a work under the Nova Componere PWL is shared and/or modified, the rights stated in this document MUST be passed along to the recipients without any form of modification to these rights what so ever. 
 
 
 
 GENERAL TERMS AND CONDITIONS
 
 
-----------------
+----------------------
 0. Human Rights
-----------------
+----------------------
 
 I –  The rights and freedoms stated within this license apply to everyone, regardless of race, creed, gender identification, sexual orientation, region, or culture.
-You may use this license for your work(s) but, as stated above, changing this document is not allowed.
+You may use this license for your work(s) but, as stated above, changing this document is prohibited.
+
 See section IX for more details on usage.
 
------------------------
+---------------------------
 1. Format Restriction.
------------------------
+---------------------------
 
-I - All works under the Nova Componere PWL is allowed to be redistributed in any digital and/or physical format.
+I - All work(s) under the Nova Componere PWL is/are allowed to be redistributed in any digital and/or physical format.
 
 Digital format examples:
 
@@ -113,85 +116,85 @@ Video: DVD, VHS, Beta-Tape, Laser Disc
 Document: Book, Letter
 Image: Portrait, Post-Card
 
-II - All works that is in a digital format under the Nova Componere PWL must be free of any Digital Restrictions Management (DRM).
+II - All work(s) that is/are in a digital format under the Nova Componere PWL must be free of any Digital Restrictions Management (DRM).
 
-III - All works are allowed to be shared through ANY protocol.
+III - All work(s) is/are allowed to be shared through ANY protocol.
 Such as, but not limited to, peer-to-peer (P2P), physical disc, and bit-torrent.
 
 Note:
 The project strongly recommends, but does not dictate, that creators choose to use Fropen digital formats such as (but not limited to) OGG, OGV, PDF, PNG, and FLAC for the sake of others and their own freedom.
 
-------------------
+-----------------------
 2. Documentation
-------------------
+-----------------------
 
-I - It is optional that any work(s) released under the Nova Componere PWL comes with, or be made available, in any form, documentation that shows how to (Including but not limited to) perform, write, and/or illustrate an art.
-When we say “Optional” we mean that the creator of a work does not have to take responsibility for releasing documentation on their art.
+I - It is optional that any work(s) released under the Nova Componere PWL comes with, or be made available, in any form, documentation that shows how to (Including but not limited to) perform, write, and/or illustrate a work.
+When we say “Optional” we mean that the creator of a work does not have to take the responsibility for creating and releasing documentation on their work(s).
 This is optional for it is possible to learn by studying a work.
 
-II - Everyone is allowed to create how-tos and/or documentation for any works under the Nova Componere PWL.
+II - Everyone is allowed to create how-tos and/or documentation for any work(s) under the Nova Componere PWL.
 
 -----------------
 3. Copyleft
 -----------------
 I - Users of the Nova Componere PWL must pass along the rights stated in this document to the recipient.
-When a derivative of a work under the Nova Componere PWL is created, it must, as a whole, be licensed under the Nova Componere PWL. 
+
+II - When a derivative of a work under the Nova Componere PWL is created, it must, as a whole, be licensed under the Nova Componere PWL. 
 
 Note:
-This is to prevent a third party from using the art and gaining full copyrights.
+This is to prevent a third party from using the work(s) and gaining copyright.
 
-------------------
+--------------------
 4. Accreditation
-------------------
-
-I – When a derivative of a work has been created, credit must be given to the creator(s) of the derivative's origin as well as to those who have modified the copy given unto you.
-
 --------------------
+
+I – When a derivative of a work has been created, credit must be given to the creator(s) of the derivative's origin as well as to those who have modified the work.
+
+---------------------------
 5. No Contamination
---------------------
+---------------------------
 
-I – If you bundle works under this license with works not under this license, the creator of the work(s) under this license may not deny you the right to redistribution.
+I – If you bundle work(s) under this license with work(s) not under this license, the creator of the work(s) under this license may not deny you the right to redistribution.
 
 II – The original creator of a work may not deny you the right to redistribute their work(s) for a fee under the Nova Componere PWL.
 This applies to derivative works and unmodified works.
 
----------------------------------------
+-------------------------------------------------
 6. Commercialization and Monetization
----------------------------------------
+-------------------------------------------------
 
-I - Everyone is permitted to manufacture, distribute, share, and/or modify merchandise (Such as, but not limited to: clothing, physical discs, and artwork) of any project under the Nova Componere PWL.
+I - Anyone is permitted to manufacture, distribute, share, and/or modify the wares (Clothing, artwork, etc) of any project under the Nova Componere PWL.
 
-II - Commercial redistribution of works, be it that the work is modified or not from the original work, under the Nova Componere PWL is optional to an individual and/or collective.
-Anyone is permitted to commercially redistribute works, be they the creator or not, under the Nova Componere PWL.
+II - Commercial redistribution of Creative Works under the Nova Componere PWL, be it the original Work or a derivative, is optional to an individual or collective.
 
-III – Works under this license may be redistributed for monetary compensation through any currencies.
+III – Works under this license may be redistributed for monetary compensation through any currency.
 
--------------------------
+---------------------------
 7. Content Censorship
--------------------------
+---------------------------
 
-I – Any work(s) under the Nova Componere PWL may not be censored due to content by any entity without the expressed, written consent by the artist(s) involved with the work(s).
+I – Any work(s) under the Nova Componere PWL may not be censored in any way for any reason.
 
------------------------------------
-8. License Usage Among Government
------------------------------------
+------------------------------------------
+8. License Usage Among Military
+------------------------------------------
 
 I – The Nova Componere Public Works License is a symbol of justice, freedom, kindness and equality, thus making it a symbol for peace.
 No military nor paramilitary entity may use this license for their own works (Such as but not limited to logos for war machines) or works under this license, for any reason.
 
-----------------
+-------------------
 9. Termination 
-----------------
+-------------------
 
 I – You may not reproduce or modify a covered work except as expressly provided under this License.
 Any attempt otherwise to reproduce or modify it is void, and will automatically terminate your rights under this License.
 
 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
 How to use the Project Nova Componere Public Works License in your material: 
-------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
 
-Copyright © (Insert Year Here) (Your name) 
+Copyright © (Insert Year Here) (Your name or alias) 
 You may redistribute this work and/or modify it under the terms of the Nova Componere PWL as published by the Nova Componere Project, either version 2.0 of the License, or 
 (at your option) any later version. 
 
@@ -202,17 +205,17 @@ along with this work. If not, see http://www.novacomponere.x10.mx/pnc_license.ph
 
 Short version:
 
-Copyright © (Year) (Your name) This work is licensed under the Nova Componere Public Works License.
+Copyright © (Year) (Your name) This work is licensed under the Nova Componere Public Works License 2.0.
 
 
 END OF LICENSE
 
------------------------------
+------------------------------------------------
 CHANGES MADE TO VERSION 2.0:
------------------------------
+------------------------------------------------
 
 Changed “Free” to “Fropen”
-Changed name of license to “Public Art License” for accuracy
+Changed name of license to “Public Works License” for accuracy
 Merged last two paragraphs in Preamble
 Changed the preface from “Preface” to “Preamble” to “Manifesto”
 Created section VIII – Content censoring
@@ -224,8 +227,9 @@ Removed freedom 7 in manifesto due to redundancy
 Changed from “Art” to “Works”
 Corrected various typos
 Changed numbering of main sections from Roman to Arabic
+Modified wording in multiple sections
 
----------
+----------
 Credits:
----------
-Thank you to Michaël Thévenet from Diaspora* for bringing up various problems and corrections with this version of the license.
+----------
+Thank you to Michaël Thévenet from Diaspora* for bringing up various problems, corrections, and suggestions with this version of the license.
